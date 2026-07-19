@@ -1,0 +1,6 @@
+{
+  "name": "Felicito Portfolio",
+  "description": "Personal portfolio website for Felicito, a solo founder and developer from Bohol, Philippines, building digital systems for local governments, businesses, and schools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
